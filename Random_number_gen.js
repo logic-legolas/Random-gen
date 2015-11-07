@@ -1,0 +1,3 @@
+var totalItems=10;
+function randomLink(){
+  return Math.floor(Math.random()*totalItems+1);
